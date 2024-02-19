@@ -1,0 +1,17 @@
+### Node.js ###
+/node_modules/
+package-lock.json
+*.code-workspace
+
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+results
+coverage/
